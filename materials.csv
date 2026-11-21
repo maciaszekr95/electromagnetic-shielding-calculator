@@ -1,0 +1,4 @@
+material,min_hz,max_hz,mu_r,sigma_r,default_thickness_m
+Mu-metal,0,10000,50000,0.035,0.001
+Silicon_Steel,10000,1000000,2000,0.1,0.0005
+Copper,100000,1000000000,1.0,1.0,0.00075
